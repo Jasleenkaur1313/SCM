@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Change from master
-=======
-Change from branch
->>>>>>> conflict
+This is master branch
