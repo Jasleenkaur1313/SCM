@@ -1,1 +1,5 @@
 *.doc
+*.log
+*.tmp
+*.bak
+node_modules/
