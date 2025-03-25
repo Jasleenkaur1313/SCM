@@ -1,3 +1,5 @@
 New content
 Change from branch
 Edited in master branch by Jasleen Kaur
+Changes from branch
+Edited in conflict by Jasleen Kaur
